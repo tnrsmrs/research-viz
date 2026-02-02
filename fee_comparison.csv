@@ -1,0 +1,4 @@
+platform,fee_type,fee_bps,notes
+Kalshi,taker,7,7 bps on contracts $0.02-$0.98
+Kalshi,maker,0,0 bps for makers
+Polymarket,all,0,0 bps for all trades

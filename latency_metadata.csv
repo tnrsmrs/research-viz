@@ -1,0 +1,5 @@
+platform,metric,description,source
+Kalshi,taker_latency_ms,End-to-end taker latency (30 samples),AWS us-east-1 co-located
+Kalshi,maker_latency_ms,End-to-end maker latency (100 samples),AWS us-east-1 co-located
+Polymarket,taker_latency_ms,End-to-end taker latency (30 samples),AWS eu-west-1 co-located
+Polymarket,maker_latency_ms,End-to-end maker latency (100 samples),AWS eu-west-1 co-located
